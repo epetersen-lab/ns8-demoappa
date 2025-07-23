@@ -32,12 +32,12 @@ To start a new module from it:
 
 Instantiate the module with:
 
-    add-module ghcr.io/nethserver/demoappa:latest 1
+    add-module ghcr.io/epetersen-lab/demoappa:latest 1
 
 The output of the command will return the instance name.
 Output example:
 
-    {"module_id": "demoappa1", "image_name": "demoappa", "image_url": "ghcr.io/nethserver/demoappa:latest"}
+    {"module_id": "demoappa1", "image_name": "demoappa", "image_url": "ghcr.io/epetersen-lab/demoappa:latest"}
 
 ## Configure
 
